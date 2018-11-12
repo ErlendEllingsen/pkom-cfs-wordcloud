@@ -1,0 +1,22 @@
+{
+  "name": "pkom-cfs-wordcloud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErlendEllingsen/pkom-cfs-wordcloud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErlendEllingsen/pkom-cfs-wordcloud/issues"
+  },
+  "homepage": "https://github.com/ErlendEllingsen/pkom-cfs-wordcloud#readme",
+  "dependencies": {
+    "react-wordcloud": "git+https://github.com/chrisrzhou/react-wordcloud.git"
+  }
+}
